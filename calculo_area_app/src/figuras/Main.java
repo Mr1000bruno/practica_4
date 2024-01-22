@@ -8,7 +8,7 @@ public class Main {
             Scanner scanner = new Scanner(System.in);
             int option;
             do {
-                System.out.println("Calculadora de Área by Bruno Melendez Gomez");
+                System.out.println("Calculadora de Área de Bruno Melendez Gomez");
                 System.out.println("Selecciona una opción:");
                 System.out.println("1. Círculo");
                 System.out.println("2. Cuadrado");
